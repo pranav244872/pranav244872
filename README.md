@@ -39,10 +39,3 @@
 <a align="center" href="https://github.com/pranav244872">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranav244872&theme=cobalt&show_icons=true&count_private=true" />
 </a>
-
-
----
-
-<a align="center" href="https://github.com/Sashank-05">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sashank-05&theme=cobalt&show_icons=true&count_private=true" />
-</a>
